@@ -1,11 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import styles from './index.module.css'
 
 const IndexPage = () => (
-  <div>
-    <h1>Hi people</h1>
-    <p>Site down. Too many visitors.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+  <div className={styles.construction}>
+    <p>building.</p>
   </div>
 )
 
