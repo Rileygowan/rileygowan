@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gatsby-starter-default
 The default Gatsby starter.
 
@@ -24,3 +25,6 @@ gatsby develop
 ## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+=======
+# rileygowan
+>>>>>>> b9b20b4067bbf02f5722830c66292417adc7557d
